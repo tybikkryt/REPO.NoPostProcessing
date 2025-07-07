@@ -7,6 +7,6 @@ After
 ![MenuAfter](img/MenuAfter.png)
 
 Before
-![GameBefore](img/GameBefore.png) ![GameAfter](img/GameAfter.png)
+![GameBefore](img/GameBefore.png)
 After
-
+![GameAfter](img/GameAfter.png)
